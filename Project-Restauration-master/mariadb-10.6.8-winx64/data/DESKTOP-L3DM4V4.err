@@ -1,0 +1,222 @@
+2022-06-12 18:41:20 0 [Note] InnoDB: The first data file './ibdata1' did not exist. A new tablespace will be created!
+2022-06-12 18:41:20 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-12 18:41:20 0 [Note] InnoDB: Number of pools: 1
+2022-06-12 18:41:20 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-06-12 18:41:20 0 [Note] InnoDB: Initializing buffer pool, total size = 20971520, chunk size = 20971520
+2022-06-12 18:41:20 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-12 18:41:20 0 [Note] InnoDB: Setting file './ibdata1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-12 18:41:20 0 [Note] InnoDB: File './ibdata1' size is now 12 MB.
+2022-06-12 18:41:20 0 [Note] InnoDB: Setting log file ./ib_logfile101 size to 100663296 bytes
+2022-06-12 18:41:20 0 [Note] InnoDB: Renaming log file ./ib_logfile101 to ./ib_logfile0
+2022-06-12 18:41:20 0 [Note] InnoDB: New log file created, LSN=10329
+2022-06-12 18:41:20 0 [Note] InnoDB: Doublewrite buffer not found: creating new
+2022-06-12 18:41:20 0 [Note] InnoDB: Doublewrite buffer created
+2022-06-12 18:41:20 0 [Note] InnoDB: 128 rollback segments are active.
+2022-06-12 18:41:20 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-12 18:41:20 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-12 18:41:20 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2022-06-12 18:41:20 0 [Note] InnoDB: 10.6.8 started; log sequence number 0; transaction id 3
+2022-06-12 18:41:20 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-12 18:41:31 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-12 18:41:31 0 [Note] InnoDB: Number of pools: 1
+2022-06-12 18:41:31 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-06-12 18:41:31 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2022-06-12 18:41:31 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-12 18:41:31 0 [Note] InnoDB: 128 rollback segments are active.
+2022-06-12 18:41:31 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-12 18:41:31 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-12 18:41:31 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2022-06-12 18:41:31 0 [Note] InnoDB: 10.6.8 started; log sequence number 41361; transaction id 14
+2022-06-12 18:41:31 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-12 18:41:31 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Maria DB\mariadb-10.6.8-winx64\data\ib_buffer_pool
+2022-06-12 18:41:31 0 [Note] Server socket created on IP: '::'.
+2022-06-12 18:41:31 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Tylko jedno u¿ycie ka¿dego adresu gniazda (protokó³/adres sieciowy/port) jest normalnie dozwolone.
+
+2022-06-12 18:41:31 0 [ERROR] Do you already have another server running on port: 3306 ?
+2022-06-12 18:41:31 0 [Note] InnoDB: Buffer pool(s) load completed at 220612 18:41:31
+2022-06-12 18:41:31 0 [ERROR] Aborting
+2022-06-12 18:42:33 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-12 18:42:33 0 [Note] InnoDB: Number of pools: 1
+2022-06-12 18:42:33 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-06-12 18:42:33 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2022-06-12 18:42:33 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-12 18:42:33 0 [Note] InnoDB: 128 rollback segments are active.
+2022-06-12 18:42:33 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-12 18:42:33 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-12 18:42:33 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2022-06-12 18:42:33 0 [Note] InnoDB: 10.6.8 started; log sequence number 42335; transaction id 14
+2022-06-12 18:42:33 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-12 18:42:33 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Maria DB\mariadb-10.6.8-winx64\data\ib_buffer_pool
+2022-06-12 18:42:33 0 [Note] Server socket created on IP: '::'.
+2022-06-12 18:42:33 0 [Note] Server socket created on IP: '0.0.0.0'.
+2022-06-12 18:42:33 0 [Note] InnoDB: Buffer pool(s) load completed at 220612 18:42:33
+2022-06-12 18:42:33 0 [Note] C:\Users\Admin\Desktop\Maria DB\mariadb-10.6.8-winx64\bin\mysqld.exe: ready for connections.
+Version: '10.6.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-12 18:44:27 0 [Note] console_event_handler: received CTRL_CLOSE_EVENT event, terminating
+2022-06-12 18:44:32 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-12 18:44:32 0 [Note] InnoDB: Number of pools: 1
+2022-06-12 18:44:32 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-06-12 18:44:32 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2022-06-12 18:44:32 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-12 18:44:32 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42335,42335
+2022-06-12 18:44:32 0 [Note] InnoDB: 128 rollback segments are active.
+2022-06-12 18:44:32 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2022-06-12 18:44:32 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-12 18:44:32 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-12 18:44:32 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2022-06-12 18:44:32 0 [Note] InnoDB: 10.6.8 started; log sequence number 42347; transaction id 14
+2022-06-12 18:44:32 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-12 18:44:32 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Maria DB\mariadb-10.6.8-winx64\data\ib_buffer_pool
+2022-06-12 18:44:32 0 [Note] Server socket created on IP: '::'.
+2022-06-12 18:44:32 0 [Note] Server socket created on IP: '0.0.0.0'.
+2022-06-12 18:44:32 0 [Note] InnoDB: Buffer pool(s) load completed at 220612 18:44:32
+2022-06-12 18:44:32 0 [Note] C:\Users\Admin\Desktop\Maria DB\mariadb-10.6.8-winx64\bin\mysqld.exe: ready for connections.
+Version: '10.6.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-12 18:44:45 0 [Note] console_event_handler: received CTRL_CLOSE_EVENT event, terminating
+2022-06-12 18:45:16 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-12 18:45:16 0 [Note] InnoDB: Number of pools: 1
+2022-06-12 18:45:16 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-06-12 18:45:16 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2022-06-12 18:45:16 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-12 18:45:16 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42359,42359
+2022-06-12 18:45:16 0 [Note] InnoDB: 128 rollback segments are active.
+2022-06-12 18:45:16 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2022-06-12 18:45:16 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-12 18:45:16 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-12 18:45:16 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2022-06-12 18:45:16 0 [Note] InnoDB: 10.6.8 started; log sequence number 42371; transaction id 14
+2022-06-12 18:45:16 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Maria DB\mariadb-10.6.8-winx64\data\ib_buffer_pool
+2022-06-12 18:45:16 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-12 18:45:16 0 [Note] Server socket created on IP: '::'.
+2022-06-12 18:45:16 0 [Note] Server socket created on IP: '0.0.0.0'.
+2022-06-12 18:45:16 0 [Note] InnoDB: Buffer pool(s) load completed at 220612 18:45:16
+2022-06-12 18:45:16 0 [Note] C:\Users\Admin\Desktop\Maria DB\mariadb-10.6.8-winx64\bin\mysqld.exe: ready for connections.
+Version: '10.6.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-12 18:45:45 0 [Note] console_event_handler: received CTRL_CLOSE_EVENT event, terminating
+2022-06-17 20:45:42 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-17 20:45:42 0 [Note] InnoDB: Number of pools: 1
+2022-06-17 20:45:42 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-06-17 20:45:42 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2022-06-17 20:45:42 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-17 20:45:42 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42383,42383
+2022-06-17 20:45:42 0 [Note] InnoDB: 128 rollback segments are active.
+2022-06-17 20:45:42 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2022-06-17 20:45:42 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-17 20:45:42 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-17 20:45:42 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2022-06-17 20:45:42 0 [Note] InnoDB: 10.6.8 started; log sequence number 42395; transaction id 14
+2022-06-17 20:45:42 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-17 20:45:42 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Maria DB\mariadb-10.6.8-winx64\data\ib_buffer_pool
+2022-06-17 20:45:42 0 [Note] InnoDB: Buffer pool(s) load completed at 220617 20:45:42
+2022-06-17 20:45:42 0 [Note] Server socket created on IP: '::'.
+2022-06-17 20:45:42 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Tylko jedno u¿ycie ka¿dego adresu gniazda (protokó³/adres sieciowy/port) jest normalnie dozwolone.
+
+2022-06-17 20:45:42 0 [ERROR] Do you already have another server running on port: 3306 ?
+2022-06-17 20:45:42 0 [ERROR] Aborting
+2022-06-17 20:45:45 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-17 20:45:45 0 [Note] InnoDB: Number of pools: 1
+2022-06-17 20:45:45 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-06-17 20:45:45 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2022-06-17 20:45:45 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-17 20:45:45 0 [Note] InnoDB: 128 rollback segments are active.
+2022-06-17 20:45:45 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-17 20:45:45 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-17 20:45:45 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2022-06-17 20:45:45 0 [Note] InnoDB: 10.6.8 started; log sequence number 42407; transaction id 14
+2022-06-17 20:45:45 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-17 20:45:45 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Maria DB\mariadb-10.6.8-winx64\data\ib_buffer_pool
+2022-06-17 20:45:45 0 [Note] Server socket created on IP: '::'.
+2022-06-17 20:45:45 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Tylko jedno u¿ycie ka¿dego adresu gniazda (protokó³/adres sieciowy/port) jest normalnie dozwolone.
+
+2022-06-17 20:45:45 0 [ERROR] Do you already have another server running on port: 3306 ?
+2022-06-17 20:45:45 0 [ERROR] Aborting
+2022-06-17 20:52:17 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-17 20:52:17 0 [Note] InnoDB: Number of pools: 1
+2022-06-17 20:52:17 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-06-17 20:52:17 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2022-06-17 20:52:17 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-17 20:52:17 0 [Note] InnoDB: 128 rollback segments are active.
+2022-06-17 20:52:17 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-17 20:52:17 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-17 20:52:17 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2022-06-17 20:52:17 0 [Note] InnoDB: 10.6.8 started; log sequence number 42419; transaction id 14
+2022-06-17 20:52:17 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-17 20:52:17 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Maria DB\mariadb-10.6.8-winx64\data\ib_buffer_pool
+2022-06-17 20:52:17 0 [Note] Server socket created on IP: '::'.
+2022-06-17 20:52:17 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Tylko jedno u¿ycie ka¿dego adresu gniazda (protokó³/adres sieciowy/port) jest normalnie dozwolone.
+
+2022-06-17 20:52:17 0 [ERROR] Do you already have another server running on port: 3306 ?
+2022-06-17 20:52:17 0 [ERROR] Aborting
+2022-06-17 20:52:19 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-17 20:52:19 0 [Note] InnoDB: Number of pools: 1
+2022-06-17 20:52:19 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-06-17 20:52:19 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2022-06-17 20:52:19 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-17 20:52:19 0 [Note] InnoDB: 128 rollback segments are active.
+2022-06-17 20:52:19 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-17 20:52:19 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-17 20:52:19 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2022-06-17 20:52:19 0 [Note] InnoDB: 10.6.8 started; log sequence number 42431; transaction id 14
+2022-06-17 20:52:19 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-17 20:52:19 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\Admin\Desktop\Maria DB\mariadb-10.6.8-winx64\data\ib_buffer_pool
+2022-06-17 20:52:19 0 [Note] Server socket created on IP: '::'.
+2022-06-17 20:52:19 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Tylko jedno u¿ycie ka¿dego adresu gniazda (protokó³/adres sieciowy/port) jest normalnie dozwolone.
+
+2022-06-17 20:52:19 0 [ERROR] Do you already have another server running on port: 3306 ?
+2022-06-17 20:52:19 0 [ERROR] Aborting
+2022-06-17 20:52:55 0 [Note] InnoDB: The first data file './ibdata1' did not exist. A new tablespace will be created!
+2022-06-17 20:52:55 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-17 20:52:55 0 [Note] InnoDB: Number of pools: 1
+2022-06-17 20:52:55 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-06-17 20:52:55 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2022-06-17 20:52:55 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-17 20:52:55 0 [Note] InnoDB: Setting file './ibdata1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-17 20:52:55 0 [Note] InnoDB: File './ibdata1' size is now 12 MB.
+2022-06-17 20:52:55 0 [Note] InnoDB: Setting log file ./ib_logfile101 size to 100663296 bytes
+2022-06-17 20:52:55 0 [Note] InnoDB: Renaming log file ./ib_logfile101 to ./ib_logfile0
+2022-06-17 20:52:55 0 [Note] InnoDB: New log file created, LSN=10329
+2022-06-17 20:52:55 0 [Note] InnoDB: Doublewrite buffer not found: creating new
+2022-06-17 20:52:55 0 [Note] InnoDB: Doublewrite buffer created
+2022-06-17 20:52:55 0 [Note] InnoDB: 128 rollback segments are active.
+2022-06-17 20:52:55 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-17 20:52:55 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-17 20:52:55 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2022-06-17 20:52:55 0 [Note] InnoDB: 10.6.8 started; log sequence number 0; transaction id 3
+2022-06-17 20:52:55 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-17 20:52:55 0 [Note] Server socket created on IP: '::'.
+2022-06-17 20:52:55 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Tylko jedno u¿ycie ka¿dego adresu gniazda (protokó³/adres sieciowy/port) jest normalnie dozwolone.
+
+2022-06-17 20:52:55 0 [ERROR] Do you already have another server running on port: 3306 ?
+2022-06-17 20:52:55 0 [ERROR] Aborting
+2022-06-17 20:54:09 0 [Note] InnoDB: The first data file './ibdata1' did not exist. A new tablespace will be created!
+2022-06-17 20:54:09 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-06-17 20:54:09 0 [Note] InnoDB: Number of pools: 1
+2022-06-17 20:54:09 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-06-17 20:54:09 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2022-06-17 20:54:09 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-06-17 20:54:09 0 [Note] InnoDB: Setting file './ibdata1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-17 20:54:09 0 [Note] InnoDB: File './ibdata1' size is now 12 MB.
+2022-06-17 20:54:09 0 [Note] InnoDB: Setting log file ./ib_logfile101 size to 100663296 bytes
+2022-06-17 20:54:09 0 [Note] InnoDB: Renaming log file ./ib_logfile101 to ./ib_logfile0
+2022-06-17 20:54:09 0 [Note] InnoDB: New log file created, LSN=10329
+2022-06-17 20:54:09 0 [Note] InnoDB: Doublewrite buffer not found: creating new
+2022-06-17 20:54:09 0 [Note] InnoDB: Doublewrite buffer created
+2022-06-17 20:54:09 0 [Note] InnoDB: 128 rollback segments are active.
+2022-06-17 20:54:09 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-06-17 20:54:09 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-06-17 20:54:09 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2022-06-17 20:54:09 0 [Note] InnoDB: 10.6.8 started; log sequence number 0; transaction id 3
+2022-06-17 20:54:09 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-17 20:54:09 0 [Note] Server socket created on IP: '::'.
+2022-06-17 20:54:09 0 [Note] Server socket created on IP: '0.0.0.0'.
+2022-06-17 20:54:09 1 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1932: Table 'mysql.gtid_slave_pos' doesn't exist in engine
+2022-06-17 20:54:09 0 [Note] C:\Users\Admin\Desktop\Maria DB\mariadb-10.6.8-winx64\bin\mysqld.exe: ready for connections.
+Version: '10.6.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-06-17 20:55:37 0 [ERROR] InnoDB: The data file './ibdata1' must be writable
+2022-06-17 20:55:37 0 [ERROR] InnoDB: The data file './ibdata1' must be writable
+2022-06-17 20:55:37 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2022-06-17 20:55:37 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2022-06-17 20:55:37 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-06-17 20:55:37 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2022-06-17 20:55:37 0 [ERROR] Aborting
+2022-06-17 21:06:52 0 [Note] console_event_handler: received CTRL_CLOSE_EVENT event, terminating
